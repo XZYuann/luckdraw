@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="luckdraw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/luckdraw.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
